@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**wnoliveira/wnoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning: Python :snake:
+- 💬 Ask me about `[Programming | DSP | Image Processing | Guitar | Heavy metal | Dogs | Racing]`
+- 📫 How to reach me: through LinkedIn 😄
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnoliveira)
+
+![Wnoliveira's github stats](https://github-readme-stats.vercel.app/api?username=wnoliveira&show_icons=true) 
+
+
+
+[![GitHub Followers](https://img.shields.io/github/followers/wnoliveira?style=social)](https://github.com/wnoliveira) [![Reach me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/wenderson-oliveira/)](https://www.linkedin.com/in/wenderson-oliveira/)
