@@ -1,13 +1,20 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning: Python :snake:
+<br /> 
+
+** **
+<br /> 
+
+Writer of [Programação Eletrônica Blog](https://programacaoeletronica.wordpress.com/) 📚
+
+- 🌱 I’m currently learning: Python :snake: and Docker :whale2:
 - 💬 Ask me about `[Programming | DSP | Image Processing | Guitar | Heavy metal | Dogs | Racing]`
 - 📫 How to reach me: through LinkedIn 😄
 
+<br /> 
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnoliveira)
+** **
+<br /> 
 
 ![Wnoliveira's github stats](https://github-readme-stats.vercel.app/api?username=wnoliveira&show_icons=true) 
 
