@@ -2,7 +2,16 @@
 
 ** **
 
-I'm writer of [Programação Eletrônica Blog](https://programacaoeletronica.wordpress.com/) 📚
+I'm writer of [Programação Eletrônica Blog](https://programacaoeletronica.wordpress.com/) 📚 
+
+Many of my GitHub contributions are made in the [Blog's profile](https://github.com/programacao-eletronica). I invite you to check it out!
+ 
+
+[![Blog profile](https://avatars.githubusercontent.com/u/93890854?s=200&v=4)](https://programacaoeletronica.wordpress.com/)
+
+** ** 
+
+<br /> 
 
 - 🌱 I’m currently learning: Python :snake: and Docker :whale2:
 - 💬 Ask me about `[Programming | DSP | Image Processing | Guitar | Heavy metal | Dogs | Racing]`
