@@ -19,7 +19,7 @@ Many of my GitHub contributions are made in the [Blog's profile](https://github.
 
 <br /> 
 
-[![GitHub Followers](https://img.shields.io/github/followers/wnoliveira?style=social)](https://github.com/wnoliveira) [![Reach me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/wenderson-oliveira/)](https://www.linkedin.com/in/wenderson-oliveira/) [![My blog](https://img.shields.io/badge/blog--_.svg?style=social&logo=wordpress)](https://programacaoeletronica.wordpress.com/) [![My yt](https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube)](https://youtube.com/@programacaoeletronica)
+[![GitHub Followers](https://img.shields.io/github/followers/wnoliveira?style=social)](https://github.com/wnoliveira) [![Reach me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=http:///www.linkedin.com/in/wenderson-oliveira/)](https://www.linkedin.com/in/wenderson-oliveira/) [![My blog](https://img.shields.io/badge/blog--_.svg?style=social&logo=wordpress)](https://programacaoeletronica.wordpress.com/) [![My yt](https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube)](https://youtube.com/@programacaoeletronica) <a href="https://visitor-badge.glitch.me/badge?page_id=wnoliveira"> <img alt="wnoliveira" src="https://visitor-badge.glitch.me/badge?page_id=wnoliveira"> </a>
 
 
 
